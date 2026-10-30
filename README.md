@@ -1,2 +1,2 @@
 # RPG-Pokemon
-Um RPG de pokemon que fiz
+Um RPG de pokémon que fiz
